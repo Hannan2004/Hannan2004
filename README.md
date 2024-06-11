@@ -28,7 +28,7 @@ Welcome to my GitHub profile! I'm a third year computer engineering student pass
 
 ## 🌟 Featured Repositories
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hannan2004&repo=AI-Image-Generation-App)](https://github.com/Hannan2004/https://github.com/AI-Image-Generation-App)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hannan2004&repo=AI-Image-Generation-App)](https://github.com/Hannan2004/AI-Image-Generation-App)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Hannan2004&repo=Crypto-Currency-Price-Tracker)](https://github.com/Hannan2004/Crypto-Currency-Price-Tracker)
 
 ## 📫 Connect with Me
